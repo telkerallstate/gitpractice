@@ -10,7 +10,7 @@ export default class AddressInsured extends React.Component {
         return(
           <form ref='addressForm'>
             <br/>
-            <Title value="What property will we be getting a quote for today?" />
+            <Title value="What property will will we be getting a quote for today?" />
             <br/>
             <Card title="Address to Insure" ><AddressInsuredForm ref='addressInsuredFormRef' addressObj={this.props.addressObj}/></Card>
             <br/>
