@@ -2,7 +2,7 @@ import React from 'react';
 import Title from './title';
 import Card from './card';
 import ControlBar from './controlBar';
-import AddressInsuredForm from './addressInsuredForm';
+//import AddressInsuredForm from './addressInsuredForm';
 import PropertyDetails from './propertyDetails';
 
 export default class AddressInsured extends React.Component {
