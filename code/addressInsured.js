@@ -5,7 +5,7 @@ import Card from './card';
 
 
 
-import ControlBar from './controlBar';
+       import ControlBar from './controlBar';
 
 //import AddressInsuredForm from './addressInsuredForm';
 import PropertyDetails from './propertyDetails';
