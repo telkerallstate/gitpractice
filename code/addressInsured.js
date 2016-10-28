@@ -1,7 +1,7 @@
 import React from 'react';
 import Title from './title';
 import Card from './card';
-import ControlBar from './controlBar';
+ ControlBar from './controlBar';
 //import AddressInsuredForm from './addressInsuredForm';
 import PropertyDetails from './propertyDetails';
 
